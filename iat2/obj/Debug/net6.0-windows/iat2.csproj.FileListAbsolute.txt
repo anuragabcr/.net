@@ -1,0 +1,17 @@
+D:\Anurag\.NET\iat2\bin\Debug\net6.0-windows\iat2.exe
+D:\Anurag\.NET\iat2\bin\Debug\net6.0-windows\iat2.deps.json
+D:\Anurag\.NET\iat2\bin\Debug\net6.0-windows\iat2.runtimeconfig.json
+D:\Anurag\.NET\iat2\bin\Debug\net6.0-windows\iat2.dll
+D:\Anurag\.NET\iat2\bin\Debug\net6.0-windows\iat2.pdb
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.csproj.AssemblyReference.cache
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.Form1.resources
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.csproj.GenerateResource.cache
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.AssemblyInfoInputs.cache
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.AssemblyInfo.cs
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.csproj.CoreCompileInputs.cache
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.dll
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\refint\iat2.dll
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.pdb
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\iat2.genruntimeconfig.cache
+D:\Anurag\.NET\iat2\obj\Debug\net6.0-windows\ref\iat2.dll

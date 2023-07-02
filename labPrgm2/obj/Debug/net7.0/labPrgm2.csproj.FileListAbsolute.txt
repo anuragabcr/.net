@@ -1,0 +1,15 @@
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.csproj.AssemblyReference.cache
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.AssemblyInfoInputs.cache
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.AssemblyInfo.cs
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.csproj.CoreCompileInputs.cache
+D:\Anurag\.NET\labPrgm2\bin\Debug\net7.0\labPrgm2.exe
+D:\Anurag\.NET\labPrgm2\bin\Debug\net7.0\labPrgm2.deps.json
+D:\Anurag\.NET\labPrgm2\bin\Debug\net7.0\labPrgm2.runtimeconfig.json
+D:\Anurag\.NET\labPrgm2\bin\Debug\net7.0\labPrgm2.dll
+D:\Anurag\.NET\labPrgm2\bin\Debug\net7.0\labPrgm2.pdb
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.dll
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\refint\labPrgm2.dll
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.pdb
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\labPrgm2.genruntimeconfig.cache
+D:\Anurag\.NET\labPrgm2\obj\Debug\net7.0\ref\labPrgm2.dll

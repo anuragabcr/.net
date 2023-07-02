@@ -1,0 +1,4 @@
+D:\Anurag\.NET\Lab_prgm_1\Lab_prgm_1\bin\Debug\Lab_prgm_1.exe
+D:\Anurag\.NET\Lab_prgm_1\Lab_prgm_1\bin\Debug\Lab_prgm_1.pdb
+D:\Anurag\.NET\Lab_prgm_1\Lab_prgm_1\obj\x86\Debug\Lab_prgm_1.exe
+D:\Anurag\.NET\Lab_prgm_1\Lab_prgm_1\obj\x86\Debug\Lab_prgm_1.pdb

@@ -1,0 +1,7 @@
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\bin\Debug\Lab_prgm_4.exe
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\bin\Debug\Lab_prgm_4.pdb
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\obj\x86\Debug\Lab_prgm_4.Form1.resources
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\obj\x86\Debug\Lab_prgm_4.Properties.Resources.resources
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\obj\x86\Debug\Lab_prgm_4.csproj.GenerateResource.Cache
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\obj\x86\Debug\Lab_prgm_4.exe
+D:\Anurag\.NET\Lab_prgm_4\Lab_prgm_4\obj\x86\Debug\Lab_prgm_4.pdb

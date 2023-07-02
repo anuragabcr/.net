@@ -1,0 +1,4 @@
+D:\Anurag\.NET\Console_test\Console_test\bin\Debug\Console_test.exe
+D:\Anurag\.NET\Console_test\Console_test\bin\Debug\Console_test.pdb
+D:\Anurag\.NET\Console_test\Console_test\obj\x86\Debug\Console_test.exe
+D:\Anurag\.NET\Console_test\Console_test\obj\x86\Debug\Console_test.pdb

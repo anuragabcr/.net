@@ -1,0 +1,12 @@
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.dll
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\bin\HostelManagementSystem.pdb
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.dll
+C:\xampp\htdocs\Rohitdoc\.Net\HostelManagementSystem\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+C:\Users\Dreamy\Downloads\drive-download-20230530T140846Z-001\HostelManagementSystem\bin\HostelManagementSystem.dll
+C:\Users\Dreamy\Downloads\drive-download-20230530T140846Z-001\HostelManagementSystem\bin\HostelManagementSystem.pdb
+C:\Users\Dreamy\Downloads\drive-download-20230530T140846Z-001\HostelManagementSystem\obj\Debug\HostelManagementSystem.dll
+C:\Users\Dreamy\Downloads\drive-download-20230530T140846Z-001\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+D:\Anurag\.NET\HostelManagementSystem\bin\HostelManagementSystem.dll
+D:\Anurag\.NET\HostelManagementSystem\bin\HostelManagementSystem.pdb
+D:\Anurag\.NET\HostelManagementSystem\obj\Debug\HostelManagementSystem.dll
+D:\Anurag\.NET\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb

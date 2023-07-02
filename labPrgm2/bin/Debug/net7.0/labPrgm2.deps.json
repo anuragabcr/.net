@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "labPrgm2/1.0.0": {
+        "runtime": {
+          "labPrgm2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labPrgm2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

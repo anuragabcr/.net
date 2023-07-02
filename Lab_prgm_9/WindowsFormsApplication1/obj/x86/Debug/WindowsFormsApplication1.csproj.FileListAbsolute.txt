@@ -1,0 +1,8 @@
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Anurag\.NET\Lab_prgm_9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
