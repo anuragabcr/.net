@@ -1,0 +1,5 @@
+D:\Anurag\.NET\Notebook\Notebook\bin\Notebook.dll
+D:\Anurag\.NET\Notebook\Notebook\bin\Notebook.pdb
+D:\Anurag\.NET\Notebook\Notebook\obj\Debug\Notebook.dll
+D:\Anurag\.NET\Notebook\Notebook\obj\Debug\Notebook.pdb
+D:\Anurag\.NET\Notebook\Notebook\obj\Debug\Notebook.csprojResolveAssemblyReference.cache
